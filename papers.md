@@ -1,4 +1,4 @@
-# LeapFrog: A place-holder for the summer project: studying the relations between galaxy color and properties of the host dark matter halo. 
+# LeapFrog: A place-holder for the summer project: studying the relation between galaxy color and properties of the host dark matter halo. 
 
 ## The relavant references for this study:
 
