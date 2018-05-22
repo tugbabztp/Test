@@ -11,4 +11,5 @@
 - **arXiv:1609.03388 (Tinker et al 2016)**
 - Galaxy histories versus halo histories 
 
--More references to come.
+- **https://arxiv.org/abs/1805.06938** 
+- Assembly bias in hydro simulations
